@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C24D129E-FE98-C743-8E45-C1A78309DAEF}") = "Anti Telat", "Assembly-CSharp.csproj", "{6AEC4E6D-3179-12AC-6090-6DE0413EE19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEC4E6D-3179-12AC-6090-6DE0413EE19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEC4E6D-3179-12AC-6090-6DE0413EE19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEC4E6D-3179-12AC-6090-6DE0413EE19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEC4E6D-3179-12AC-6090-6DE0413EE19A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
